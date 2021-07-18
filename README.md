@@ -1,2 +1,1 @@
-# tindog
-Exploring HTML CSS designs
+TinDog Starting Files
